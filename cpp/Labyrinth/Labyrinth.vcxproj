@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A5B929E5-9FDD-4557-AB6E-0C0275FFC31A}</ProjectGuid>
-    <RootNamespace>SkynetEpisode1</RootNamespace>
+    <ProjectGuid>{BE296D8E-524D-4AFD-8AE3-1C4ACE33FA05}</ProjectGuid>
+    <RootNamespace>Labyrinth</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="SkynetEpisode1.cpp" />
+    <ClCompile Include="Labyrinth.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

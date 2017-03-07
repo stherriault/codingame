@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MayanCalculation", "MayanCa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SkynetEpisode2", "SkynetEpisode2\SkynetEpisode2.vcxproj", "{6F383EA8-A6CA-401B-9A8F-575CD2491538}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Labyrinth", "Labyrinth\Labyrinth.vcxproj", "{BE296D8E-524D-4AFD-8AE3-1C4ACE33FA05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{6F383EA8-A6CA-401B-9A8F-575CD2491538}.Release|x64.Build.0 = Release|x64
 		{6F383EA8-A6CA-401B-9A8F-575CD2491538}.Release|x86.ActiveCfg = Release|Win32
 		{6F383EA8-A6CA-401B-9A8F-575CD2491538}.Release|x86.Build.0 = Release|Win32
+		{BE296D8E-524D-4AFD-8AE3-1C4ACE33FA05}.Debug|x64.ActiveCfg = Debug|x64
+		{BE296D8E-524D-4AFD-8AE3-1C4ACE33FA05}.Debug|x64.Build.0 = Debug|x64
+		{BE296D8E-524D-4AFD-8AE3-1C4ACE33FA05}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE296D8E-524D-4AFD-8AE3-1C4ACE33FA05}.Debug|x86.Build.0 = Debug|Win32
+		{BE296D8E-524D-4AFD-8AE3-1C4ACE33FA05}.Release|x64.ActiveCfg = Release|x64
+		{BE296D8E-524D-4AFD-8AE3-1C4ACE33FA05}.Release|x64.Build.0 = Release|x64
+		{BE296D8E-524D-4AFD-8AE3-1C4ACE33FA05}.Release|x86.ActiveCfg = Release|Win32
+		{BE296D8E-524D-4AFD-8AE3-1C4ACE33FA05}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
